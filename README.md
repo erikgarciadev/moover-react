@@ -5,8 +5,8 @@ servicio de traslado de paquetes de manera segura y sanitizada en estos tiempos 
 
 ## Tecnologías
 
-In the project directory, you can run:
  - [ReactJs](https://es.reactjs.org/)
  - [Typescript](https://www.typescriptlang.org/)
+ - [Chakra UI](https://chakra-ui.com/)
 
 
