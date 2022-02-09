@@ -9,4 +9,4 @@ servicio de traslado de paquetes de manera segura y sanitizada en estos tiempos 
  - [Typescript](https://www.typescriptlang.org/)
  - [Chakra UI](https://chakra-ui.com/)
  - [React Router](https://reactrouter.com/)
-
+ - [Font Awesome](https://fontawesome.com/)
