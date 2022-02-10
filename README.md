@@ -10,3 +10,6 @@ servicio de traslado de paquetes de manera segura y sanitizada en estos tiempos 
  - [Chakra UI](https://chakra-ui.com/)
  - [React Router](https://reactrouter.com/)
  - [Font Awesome](https://fontawesome.com/)
+ - [Firebase](https://firebase.google.com/)
+
+
