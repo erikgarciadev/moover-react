@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "status": 1,
+        "code": "PRUEBA",
+        "client_name": "Cliente 1",
+        "client_address": "Direccion cliente 1",
+        "recipient_name": "Destinatario 1",
+        "recipient_address": "Dirección destinatario 1",
+        "order_detail":"Son unos cuadros delicados",
+        "created_at": ""
+    },
+    {
+        "id": "2",
+        "status": 2,
+        "code": "PRUEBA1",
+        "client_name": "Cliente 2",
+        "client_address": "Direccion cliente 2",
+        "recipient_name": "Destinatario 2",
+        "recipient_address": "Dirección destinatario 2",
+        "order_detail":"Son unos televisores",
+        "created_at": ""
+    },
+    {
+        "id": "3",
+        "status": 3,
+        "code": "PRUEBA2",
+        "client_name": "Cliente 2",
+        "client_address": "Direccion cliente 2",
+        "recipient_name": "Destinatario 2",
+        "recipient_address": "Dirección destinatario 2",
+        "order_detail":"Son unos artefactos que deben ser trasladados con mucho cuidado",
+        "created_at": ""
+    }
+]

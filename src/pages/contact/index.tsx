@@ -1,6 +1,5 @@
-import { Box, Image } from "@chakra-ui/react";
+import { Box } from "@chakra-ui/react";
 import React from "react";
-import logo from "../../assets/logo_small.svg";
 
 export default function Contact() {
   return (
@@ -13,7 +12,6 @@ export default function Contact() {
       alignItems="center"
       flexDirection="column"
     >
-      {/* <Image fill='white' src={logo} alt='logo' /> */}
       <Box mb="20" as="h1" fontWeight="bold" fontSize="48px">
         Contáctanos
       </Box>
